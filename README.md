@@ -2,17 +2,16 @@
   <img src="banner.gif" alt="banner" width="100%">
 </p>
 
-<h1 align="center">gabrieldewaruci</h1>
+<h1 align="center">Putraa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5865F2&center=true&vCenter=true&width=440&lines=spanma+lover;cat+lover;lived+in+Bontang%2C+Indonesia" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5865F2&center=true&vCenter=true&width=440&lines=Skansa+TKJ;designer+video+editor;lived+in+Tanjungpinang%2C+Indonesia" alt="typing-svg" />
 </p>
 
 ---
 
 - Location: Tanjungpinang, Indonesian
-- Timezone: WITA (UTC+8)
-- GitHub: -
+- Timezone: WIB (UTC+7)
 ### Social
 
 <p align="center">
