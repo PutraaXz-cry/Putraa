@@ -10,10 +10,9 @@
 
 ---
 
-- Location: Bontang, Indonesia
+- Location: Tanjungpinang, Indonesian
 - Timezone: WITA (UTC+8)
-- GitHub: [@Gabriell-hyck](https://github.com/Gabriell-hyck)
-
+- GitHub: -
 ### Social
 
 <p align="center">
