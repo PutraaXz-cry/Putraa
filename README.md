@@ -12,6 +12,7 @@
 
 - Location: Tanjungpinang, Indonesian
 - Timezone: WIB (UTC+7)
+- Github: [@PutraaXz-cry](https://github.com/PutraaXz-cry)
 ### Social
 
 <p align="center">
